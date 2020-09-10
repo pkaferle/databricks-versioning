@@ -1,2 +1,2 @@
 ### databricks-versioning
-Support material for the article "Databricks: Data and code versioning with Delta Lake and MLflow"
+Support material for the articles "Importing data to Databricks: external tables et Delta Lake" and "Experiment tracking on Databricks Community Edition with MLflow"
